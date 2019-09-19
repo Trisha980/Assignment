@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    background-color: darkgray;
+    height: 100%;
+    text-align: center;
+}
+
+nav{
+    height: 100%;
+    background: black;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    line-height: 100px;
+}
+
+a{
+    line-height: 50px;
+    font-size: 30px;
+}
+article {
+    width: 75%;
+    height: 500px;
+    background-color: blue;
+    float: left;
+    margin-top: 50px;
+}
+
+aside{
+    width: 25%;
+    height: 500px;
+    background-color: red;
+    float: left;
+    padding: 30px;
+}
+
